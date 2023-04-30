@@ -43,32 +43,34 @@ Here are some of the topics you'll find in this repository:
 
 🔹 Reinforcement learning
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=🧠+AI" alt="🧠 AI" /> </h1>
+# 🔰 Description :
+  
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=🧠+AI" alt="🧠 AI" /> 
 
 - In this section, you'll find resources related to artificial intelligence, including algorithms, techniques, and tools. 
 - Some of the topics covered include natural language processing, computer vision, and deep learning.
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=💻+Machine+Learning" alt="💻 Machine Learning" /> </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=💻+Machine+Learning" alt="💻 Machine Learning" /> 
 
 - Here, you'll find resources related to machine learning, including algorithms, frameworks, and libraries. 
 - Some of the topics covered include regression, classification, clustering, and neural networks.
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📈+Data+Science" alt="📈 Data Science" /> </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📈+Data+Science" alt="📈 Data Science" /> 
 
 - In this section, you'll find resources related to data science, including statistical analysis, data mining, and data cleaning. 
 - Some of the topics covered include hypothesis testing, A/B testing, and exploratory data analysis.
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📊+Data+Visualization" alt="📊 Data Visualization" /> </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📊+Data+Visualization" alt="📊 Data Visualization" /> 
 
 - Here, you'll find resources related to data visualization, including tools and libraries for creating charts, graphs, and other visualizations.
 - Some of the topics covered include matplotlib, seaborn, and ggplot2.
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📝+Notebooks" alt="📝 Notebooks" /> </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📝+Notebooks" alt="📝 Notebooks" />
 
 - In this section, you'll find Jupyter notebooks that showcase various projects and examples related to data science, AI, and machine learning.
 - These notebooks can serve as a starting point for your own projects and experiments.
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📁+Datasets" alt="📁 Datasets" /> </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📁+Datasets" alt="📁 Datasets" />
 
 - The "datasets" directory contains a variety of datasets that I've used in my data science and machine learning projects. 
 - Feel free to use these datasets for your own projects, and let me know if you find any interesting insights!
