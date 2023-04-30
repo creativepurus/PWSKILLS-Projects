@@ -64,8 +64,16 @@ To get started, simply clone this repository to your local machine and explore t
 # 📣 Feedback and Contributions 
 I'm always looking for ways to improve my skills and learn from others in the community. If you have any suggestions, bug fixes, or contributions, feel free to open a pull request or issue with your changes !
 
-# 📩 Contact 
-If you have any questions or just want to chat about data science, AI, or machine learning, feel free to reach out to me on Linkedin at [@creativepuru](https://www.linkedin.com/in/creativepuru/)
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> </h1>
+
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
+[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
+[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-white?style=flat-round&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")             <!-- Facebook -->
+[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-round&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")            <!-- Instagram -->
+
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
+
+[![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 
 # 🚀 Let's learn and grow together!
 
@@ -74,6 +82,7 @@ I hope you find this repository useful and informative in your journey towards m
 Happy coding! 🎉
 
 ### 📍 Repository creation date 👉🏻 `21 April 2023`
+<br> </br>
 
 ## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
