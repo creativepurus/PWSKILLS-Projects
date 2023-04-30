@@ -11,9 +11,12 @@
 </div>
 
 # 🔰 ABOUT :
-## 🤖🧠💻 Artificial Intelligence, Machine Learning and Data Science Projects 🚀
+### 🤖🧠💻 Artificial Intelligence, Machine Learning and Data Science Projects 🚀
 
-Welcome to my repository of resources for Artificial Intelligence, Machine Learning and Data Science! This repository contains a collection of codes and projects related to data science, AI, and machine learning. Here, you'll find a collection of code snippets, tutorials, and other helpful resources that I've gathered throughout my journey in these fields. In today's world, data science has become an integral part of businesses, organizations, and governments as it helps in making informed decisions through the analysis of vast amounts of data.
+- Welcome to my repository of resources for Artificial Intelligence, Machine Learning and Data Science! 
+- This repository contains a collection of codes and projects related to data science, AI, and machine learning. 
+- Here, you'll find a collection of code snippets, tutorials, and other helpful resources that I've gathered throughout my journey in these fields. 
+- In today's world, data science has become an integral part of businesses, organizations, and governments as it helps in making informed decisions through the analysis of vast amounts of data.
 
 # 📚 Table of Contents
 - 🧠 AI
