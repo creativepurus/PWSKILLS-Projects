@@ -4,7 +4,7 @@
 
 <div align="center"> 
 
-[![PWSKILLS PROJECTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=700&height=100&lines=WELCOME+TO+MY+PWSKILLS+-+PROJECTS+REPOSITORY)](https://github.com/creativepuru/PWSKILLS-Projects)
+[![PWSKILLS PROJECTS](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=700&height=100&lines=👋+WELCOME+TO+MY+PWSKILLS+-+PROJECTS+REPOSITORY+📘)](https://github.com/creativepuru/PWSKILLS-Projects)
 
 [![ABOUT](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=false&width=800&height=50&lines=✨+This+repository+is+a+collection+of+🤖🧠💻+Artificial+Intelligence...;...Machine+Learning+and+Data+Science+Projects+🚀;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru/PWSKILLS-Projects)
 
@@ -18,6 +18,7 @@
 - 📣 Feedback and Contributions 
 - 📲 How to reach me 💻
 - 🚀 Let's learn and grow together!
+- 📖 License
 - 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
 
 # 🔰 ABOUT
@@ -116,6 +117,12 @@ jupyter notebook
 I hope you find this repository useful and informative in your journey towards mastering data science.
 
 Happy coding! 🎉
+
+### ❤️ Thank you for visiting my repository, and happy exploring 🤗
+
+# 📖 License
+### My [PWSKILLS-Projects repository](https://github.com/creativepuru/PWSKILLS-Projects) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/PWSKILLS-Projects/blob/main/LICENSE.txt) License. 
+- See [LICENSE](https://github.com/creativepuru/PWSKILLS-Projects/blob/main/LICENSE.txt) for more information.
 
 <br> </br>
 
