@@ -10,6 +10,16 @@
 
 </div>
 
+# 📚 Table of Contents
+- 🔰 ABOUT
+- 📚 Topics Covered
+- 💻 Getting Started
+- 🔰 Description
+- 📣 Feedback and Contributions 
+- 📲 How to reach me 💻
+- 🚀 Let's learn and grow together!
+- 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
+
 # 🔰 ABOUT
 ### 🤖🧠💻 Artificial Intelligence, Machine Learning and Data Science Projects 🚀
 
@@ -17,14 +27,6 @@
 - This repository contains a collection of `codes and projects` related to Data Science, AI, and Machine Learning. 
 - Here, you'll find a collection of `code snippets, tutorials`, and other helpful resources that I've gathered throughout my journey in these fields. 
 - In today's world, `Data Science` has become an `integral part of businesses`, organizations, and governments as it helps in making informed decisions through the analysis of vast amounts of data.
-
-# 📚 Table of Contents
-- 🧠 AI
-- 💻 Machine Learning
-- 📈 Data Science
-- 📊 Data Visualization
-- 📁 Datasets
-- 📝 Notebooks
 
 # 📚 Topics Covered 
 Here are some of the topics you'll find in this repository:
@@ -43,7 +45,26 @@ Here are some of the topics you'll find in this repository:
 
 🔹 Reinforcement learning
 
-# 🔰 Description :
+# 👨‍💻 Getting Started
+- To get started, simply clone this repository to your local machine and explore the different sections. 
+- You can also contribute to this repository by adding your own code snippets, tutorials, and other resources.
+- To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+- You'll also need to have `Jupyter` installed. You can install it using `pip` using below commands :
+```
+pip install jupyter
+```
+- Once you have `Python` and `Jupyter` installed, you can `clone` this repository:
+```
+git clone https://github.com/creativepuru/Python-Basics.git
+```
+- Then, navigate to the directory where the repository was cloned and start Jupyter by using below commands :
+```
+cd <Python-Basics>
+jupyter notebook
+```
+- This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
+
+# 🔰 Description
   
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=🧠+AI" alt="🧠 AI" /> 
 
@@ -74,10 +95,6 @@ Here are some of the topics you'll find in this repository:
 
 - The "datasets" directory contains a variety of datasets that I've used in my data science and machine learning projects. 
 - Feel free to use these datasets for your own projects, and let me know if you find any interesting insights!
-
-# 👨‍💻 Getting Started
-- To get started, simply clone this repository to your local machine and explore the different sections. 
-- You can also contribute to this repository by adding your own code snippets, tutorials, and other resources.
 
 # 📣 Feedback and Contributions 
 - I'm always looking for ways to improve my skills and learn from others in the community. 
