@@ -13,10 +13,10 @@
 # 🔰 ABOUT
 ### 🤖🧠💻 Artificial Intelligence, Machine Learning and Data Science Projects 🚀
 
-- Welcome to my repository of resources for Artificial Intelligence, Machine Learning and Data Science! 
-- This repository contains a collection of codes and projects related to data science, AI, and machine learning. 
+- Welcome to my repository of resources for `Artificial Intelligence`, `Machine Learning` and `Data Science` ! 
+- This repository contains a collection of codes and `projects` related to `data science, AI, and machine learning`. 
 - Here, you'll find a collection of code snippets, tutorials, and other helpful resources that I've gathered throughout my journey in these fields. 
-- In today's world, data science has become an integral part of businesses, organizations, and governments as it helps in making informed decisions through the analysis of vast amounts of data.
+- In today's world, data science has become an `integral part of businesses`, organizations, and governments as it helps in making informed decisions through the analysis of vast amounts of data.
 
 # 📚 Table of Contents
 - 🧠 AI
@@ -44,28 +44,36 @@ Here are some of the topics you'll find in this repository:
 🔹 Reinforcement learning
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=🧠+AI" alt="🧠 AI" /> </h1>
-In this section, you'll find resources related to artificial intelligence, including algorithms, techniques, and tools. Some of the topics covered include natural language processing, computer vision, and deep learning.
+- In this section, you'll find resources related to `artificial intelligence`, including `algorithms`, `techniques`, and tools. 
+- Some of the topics covered include `natural language processing`, `computer vision`, and `deep learning`.
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=💻+Machine+Learning" alt="💻 Machine Learning" /> </h1>
-Here, you'll find resources related to machine learning, including algorithms, frameworks, and libraries. Some of the topics covered include regression, classification, clustering, and neural networks.
+- Here, you'll find resources related to `machine learning`, including algorithms, frameworks, and libraries. 
+- Some of the topics covered include `regression, classification, clustering, and neural networks`.
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📈+Data+Science" alt="📈 Data Science" /> </h1>
-In this section, you'll find resources related to data science, including statistical analysis, data mining, and data cleaning. Some of the topics covered include hypothesis testing, A/B testing, and exploratory data analysis.
+- In this section, you'll find resources related to data science, including statistical analysis, data mining, and data cleaning. 
+- Some of the topics covered include hypothesis testing, A/B testing, and exploratory data analysis.
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📊+Data+Visualization" alt="📊 Data Visualization" /> </h1>
-Here, you'll find resources related to data visualization, including tools and libraries for creating charts, graphs, and other visualizations. Some of the topics covered include matplotlib, seaborn, and ggplot2.
+- Here, you'll find resources related to data visualization, including tools and libraries for creating charts, graphs, and other visualizations.
+- Some of the topics covered include matplotlib, seaborn, and ggplot2.
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📝+Notebooks" alt="📝 Notebooks" /> </h1>
-In this section, you'll find Jupyter notebooks that showcase various projects and examples related to data science, AI, and machine learning. These notebooks can serve as a starting point for your own projects and experiments.
+- In this section, you'll find Jupyter notebooks that showcase various projects and examples related to data science, AI, and machine learning.
+- These notebooks can serve as a starting point for your own projects and experiments.
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=📁+Datasets" alt="📁 Datasets" /> </h1>
-The "datasets" directory contains a variety of datasets that I've used in my data science and machine learning projects. Feel free to use these datasets for your own projects, and let me know if you find any interesting insights!
+- The "datasets" directory contains a variety of datasets that I've used in my data science and machine learning projects. 
+- Feel free to use these datasets for your own projects, and let me know if you find any interesting insights!
 
 # 👨‍💻 Getting Started
-To get started, simply clone this repository to your local machine and explore the different sections. You can also contribute to this repository by adding your own code snippets, tutorials, and other resources.
+- To get started, simply clone this repository to your local machine and explore the different sections. 
+- You can also contribute to this repository by adding your own code snippets, tutorials, and other resources.
 
 # 📣 Feedback and Contributions 
-I'm always looking for ways to improve my skills and learn from others in the community. If you have any suggestions, bug fixes, or contributions, feel free to open a pull request or issue with your changes !
+- I'm always looking for ways to improve my skills and learn from others in the community. 
+- If you have any suggestions, bug fixes, or contributions, feel free to open a pull request or issue with your changes !
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> </h1>
 
