@@ -10,7 +10,7 @@
 
 </div>
 
-# 🔰 ABOUT :
+# 🔰 ABOUT
 ### 🤖🧠💻 Artificial Intelligence, Machine Learning and Data Science Projects 🚀
 
 - Welcome to my repository of resources for Artificial Intelligence, Machine Learning and Data Science! 
