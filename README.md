@@ -84,7 +84,6 @@ I hope you find this repository useful and informative in your journey towards m
 
 Happy coding! 🎉
 
-### 📍 Repository creation date 👉🏻 `21 April 2023`
 <br> </br>
 
 ## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
