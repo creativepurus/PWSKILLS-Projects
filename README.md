@@ -1,6 +1,6 @@
 <b>
 
-> [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
+> [![Purushottam Anand 🇮🇳 on GitHub ☕](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
 <div align="center"> 
 
@@ -14,7 +14,7 @@
 ### 🤖🧠💻 Artificial Intelligence, Machine Learning and Data Science Projects 🚀
 
 - Welcome to my repository of resources for `Artificial Intelligence`, `Machine Learning` and `Data Science` ! 
-- This repository contains a collection of `codes and projects` related to `Data Science, AI, and Machine Learning`. 
+- This repository contains a collection of `codes and projects` related to Data Science, AI, and Machine Learning. 
 - Here, you'll find a collection of `code snippets, tutorials`, and other helpful resources that I've gathered throughout my journey in these fields. 
 - In today's world, `Data Science` has become an `integral part of businesses`, organizations, and governments as it helps in making informed decisions through the analysis of vast amounts of data.
 
