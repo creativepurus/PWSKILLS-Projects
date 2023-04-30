@@ -42,10 +42,13 @@ Here are some of the topics you'll find in this repository:
 🔹 Computer vision
 
 🔹 Reinforcement learning
-# 🧠 AI
+
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=🧠+AI" alt="🧠 AI" /> </h1>
+
 In this section, you'll find resources related to artificial intelligence, including algorithms, techniques, and tools. Some of the topics covered include natural language processing, computer vision, and deep learning.
 
-# 💻 Machine Learning
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=500&multiline=true&width=600&height=40&lines=💻+Machine+Learning" alt="💻 Machine Learning" /> </h1>
+
 Here, you'll find resources related to machine learning, including algorithms, frameworks, and libraries. Some of the topics covered include regression, classification, clustering, and neural networks.
 
 # 📈 Data Science
