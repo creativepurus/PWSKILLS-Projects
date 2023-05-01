@@ -12,14 +12,15 @@
 
 # 📚 Table of Contents
 - 🔰 ABOUT
-- 📚 Topics Covered
-- 💻 Getting Started
+- 💻 Projects Covered
+- 👨‍💻 Getting Started
 - 🔰 Description
 - 📣 Feedback and Contributions 
 - 📲 How to reach me 💻
 - 🚀 Let's learn and grow together!
 - 📖 License
 - 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
+<br> </br>
 
 # 🔰 ABOUT
 ### 🤖🧠💻 Artificial Intelligence, Machine Learning and Data Science Projects 🚀
@@ -28,23 +29,53 @@
 - This repository contains a collection of `codes and projects` related to Data Science, AI, and Machine Learning. 
 - Here, you'll find a collection of `code snippets, tutorials`, and other helpful resources that I've gathered throughout my journey in these fields. 
 - In today's world, `Data Science` has become an `integral part of businesses`, organizations, and governments as it helps in making informed decisions through the analysis of vast amounts of data.
+<br> </br>
 
-# 📚 Topics Covered 
-Here are some of the topics you'll find in this repository:
+# 💻 Projects Covered 
+> Below are the Projects you'll find in this repository:
 
-🔹 Data cleaning and preprocessing
+### 🔹 Feb 2023 Python Project :- Web Scrapping
+- Web Scrapping introduction
+- Integration With Web Portal.
+- Integration With Rest Api, Web Portal And Mongo Db
+- Deployment On Web Portal On AWS Cloud
 
-🔹 Exploratory data analysis
+### 🔹 Feb 2023 Python Project : - Image Scrapper
+- Image Scrapping Introduction
+- Image Scrapping Deployment
+- Integration With Rest Api, Web Portal And Mongo Db
+- Deployment On Web Portal On Azure Cloud
 
-🔹 Machine learning algorithms
+### 🔹 May 2023 ML Projects
+- 6 May'23 Fault detection in wafers based on sensor data.
+- 7 May'23 Cement strength reg.
+- 8 May'23 Credit card fraud.
+- 9 May'23 Fraud detection
+- 10 May'23 Income prediction
+- 11 May'23 Phishing classifier
+- 12 May'23 Visibility climate
 
-🔹 Deep learning frameworks
+### 🔹 July 2023 Computer Vision Projects
+- 16 July'23 Object Tracking Project
+- 17 July'23 Image Classification with SOTA CNNs
+- 18 July'23 Image to Text using OCRs
+- 19 July'23 Vision based Attendance System
+- 20 July'23 Sign Language Detection
+- 21 July'23 Shredder Systems
 
-🔹 Natural language processing
+### 🔹 Aug 2023 NLP Projects
+- 6 Aug'23 Movie Review using BERT
+- 7 Aug'23 NER using BERT
+- 8 Aug'23 POS Tagging with BERT
+- 9 Aug'23 Text Generation GPT2
+- 10 Aug'23 Question Answering with SQUAD
+- 11 Aug'23 Machine Translation with Transformers
+- 12 Aug'23 Paraphrasing with BART
+- 13 Aug'23 Text2Speech
+- 14 Aug'23 Speech2Text
+- 15 Aug'23 SpellCorrector
 
-🔹 Computer vision
-
-🔹 Reinforcement learning
+<br> </br>
 
 # 👨‍💻 Getting Started
 - To get started, simply clone this repository to your local machine and explore the different sections. 
@@ -64,6 +95,7 @@ cd <Python-Basics>
 jupyter notebook
 ```
 - This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
+<br> </br>
 
 # 🔰 Description
   
@@ -96,6 +128,7 @@ jupyter notebook
 
 - The "datasets" directory contains a variety of datasets that I've used in my data science and machine learning projects. 
 - Feel free to use these datasets for your own projects, and let me know if you find any interesting insights!
+<br> </br>
 
 # 📣 Feedback and Contributions 
 - I'm always looking for ways to improve my skills and learn from others in the community. 
@@ -111,6 +144,7 @@ jupyter notebook
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
 
 [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
+<br> </br>
 
 # 🚀 Let's learn and grow together!
 - 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
@@ -118,6 +152,7 @@ jupyter notebook
 - 👨‍💻 Happy coding! 🎉
 
 ### ❤️ Thank you for visiting my repository, and happy exploring 🤗
+<br> </br>
 
 # 📖 License
 ### My [PWSKILLS-Projects repository](https://github.com/creativepuru/PWSKILLS-Projects) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/PWSKILLS-Projects/blob/main/LICENSE.txt) License. 
